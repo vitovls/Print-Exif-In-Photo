@@ -1,6 +1,6 @@
 # Print-Exif-In-Photo
 
-Projeto para imprimir metadados de fotos nas mesmas.
+Projeto para inserir latitude e longitude nas fotos.
 
 Projeto feito em Python usando [Pilow](https://pillow.readthedocs.io/en/stable/)
 
